@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Busra 👋
+
+I'm a computer engineer over 3 years with professional experience. My experience includes getting requirements, designing solutions of tasks, developing solutions, fixing bugs, 
+testing requirements and correcting data on database. Some technologies I enjoy working with include Java, Spring Boot, Elasticsearch, Microservices.</br></br>
 
 <!--
 **busragol/busragol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busragol&hide=prs,stars&show_icons=true&theme=radical&include_all_commits=true)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busragol&hide=prs,stars&show_icons=true&theme=radical)
+
