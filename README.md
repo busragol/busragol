@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busragol&hide=prs,stars&show_icons=true&theme=radical&include_all_commits=true)
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busragol&hide=prs,stars&show_icons=true&theme=radical&rank_icon=github)</br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busragol&show_icons=true&theme=radical&rank_icon=github)</br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busragol&hide=javascript,html,tcl,css&exclude_repo=SentimentAnalysis,ParallelProgramming&layout=compact&hide_progress=true&theme=radical)
 </br></br>
