@@ -1,7 +1,7 @@
 # Hi, I'm Busra 👋
 
 I'm a computer engineer over 3 years with professional experience. My experience includes getting requirements, designing solutions of tasks, developing solutions, fixing bugs, 
-testing requirements and correcting data on database. Some technologies I enjoy working with include Java, Spring Boot, Elasticsearch, Microservices.</br></br>
+testing requirements and correcting data on database. Some technologies I enjoy working with include Java, Spring Boot, Elasticsearch, Microservice.</br></br>
 
 
 <!--
